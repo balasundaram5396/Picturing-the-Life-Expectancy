@@ -20,7 +20,7 @@ The dataset related to life expectancy focuses on, the health factors of 193 cou
   - The model will be trained through various regression techniques like:- Linear Regression, Random Forest, Logistic Regression. Since our data contains more of numerical data values. While validating our machine learning model by its learning and behaviour with the new data, we are using 2 essential techniques:- Overfitting of data and Underfitting of data
 - <b>Evaluation</b>
   - The data is evaluated using analytical and logical reasoning. Each attributes in the data are considered for the evaluation. The education column plays an important role in the population growth. The more knowledge an individual has, the more he or she can make informed life decisions, and improve his or her quality of life. 
-The attributes like Polio, Measles, Hepatitis-B, Diphtheria can be used to analyse the immunization level of the people. The dense and sparsely populated countries have different cultures, behavior, social and economic status. Based on all these attributes we will predict the life expectancy of the people in various countries. 
+The attributes like Polio, Measles, Hepatitis-B, Diphtheria can be used to analyse the immunization level of the people. The dense and sparsely populated countries have different cultures, behavior, social and economic status. Based on all these attributes the model will predict the life expectancy of the people in various countries. 
 - <b>Conclusion</b>
-  - Our model will help in suggesting various countries in order to efficiently improve the life expectancy of its population through immunization or by increasing their investment on healthcare field to improve the available medications.
+  - This model will help in suggesting various countries in order to efficiently improve the life expectancy of its population through immunization or by increasing their investment on healthcare field to improve the available medications.
 
